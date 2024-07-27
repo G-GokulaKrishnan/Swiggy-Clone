@@ -1,0 +1,550 @@
+{
+      title: "The Vellore Kitchen",
+      rating: "4.4",
+      time: "25-30mins",
+      id: 1,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/swiggy.jpg?updatedAt=1710653975402",
+      description: "Biryani, South Indian, Chinese, North Indian",
+      location: "Near Green Circle",
+    },
+    {
+      title: "Domino's Pizza",
+      rating: "4.5",
+      time: "25mins",
+      id: 2,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/092e58460657922e098a8afd5db838fe?updatedAt=1710679019501",
+      description: "Pizzas, Italian, Pastas, Desserts",
+      location: "Kosapet",
+    },
+    {
+      title: "Urban Shakes",
+      rating: "4.2",
+      time: "35-40mins",
+      id: 3,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Urban%20Shakes?updatedAt=1710681779829",
+      description: "Continental, Desserts",
+      location: "Saidapet",
+    },
+    {
+      title: "Nellai Sakthivel Hotel",
+      rating: "3.7",
+      time: "35-40mins",
+      id: 4,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Nellai%20Sakthivel%20Hotel?updatedAt=1710681815181",
+      description: "South Indian, Snacks, Desserts",
+      location: "Vellore Fort",
+    },
+    {
+      title: "Brownie Station",
+      rating: "4.3",
+      time: "25-30mins",
+      id: 5,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Brownie%20Station?updatedAt=1710681885034",
+      description: "Desserts, Ice Cream",
+      location: "Saidapet",
+    },
+    {
+      title: "Spicycon",
+      rating: "4",
+      time: "50-55mins",
+      id: 6,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/spicycon?updatedAt=1710681924836",
+      description: "Continental, Indian, Snacks",
+      location: "Sathuvachari",
+    },
+    {
+      title: "Boba Drink",
+      rating: "4",
+      time: "25-30mins",
+      id: 7,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Boba%20Drink?updatedAt=1710680880534",
+      description: "Beverages, Juices",
+      location: "Vellore Fort",
+    },
+    {
+      title: "Bite Box Cafe",
+      rating: "4",
+      time: "30-35mins",
+      id: 8,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Bite%20Box%20Cafe?updatedAt=1710681962863",
+      description: "Fast Food, Chinese, Desserts",
+      location: "Saidapet",
+    },
+    {
+      title: "Ar Lounge",
+      rating: "3.7",
+      time: "25-30mins",
+      id: 9,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Ar%20Lounge?updatedAt=1710682020374",
+      description: "Chinese, Pastas, Burgers",
+      location: "Near Vellore Kitchen, Green Circle",
+    },
+    {
+      title: "Quick Cake Cold Cake",
+      rating: "4.1",
+      time: "55-60mins",
+      id: 10,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Quick%20Cake%20Cold%20Cake?updatedAt=1710682453935",
+      description: "Cakes and pastries, Ice Cream",
+      location: "Viruthampet",
+    },
+    {
+      title: "Cupcake Bliss Cake & Deserts",
+      rating: "4.2",
+      time: "45-50mins",
+      id: 11,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Cupcake%20Bliss%20Cake%20&%20Desserts?updatedAt=1710682496853",
+      description: "Bakery, Desserts, Ice Cream",
+      location: "Katpadi",
+    },
+    {
+      title: "Burger It Up",
+      rating: "4.1",
+      time: "40-45mins",
+      id: 12,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Burger%20It%20Up?updatedAt=1710682530006",
+      description: "Burgers, Beverages, Desserts",
+      location: "Katpadi",
+    },
+    {
+      title: "Seoul Fried Chicken",
+      rating: "3.8",
+      time: "40-45mins",
+      id: 13,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Seoul%20Fried%20Chicken?updatedAt=1710682574422",
+      description: "American, Fast Food, Snacks",
+      location: "VIT-Katpadi",
+    },
+    {
+      title: "Madno - House of Sundaes",
+      rating: "4.5",
+      time: "45-50mins",
+      id: 14,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Madno?updatedAt=1710681391307",
+      description: "Desserts, Ice Cream, Beverages",
+      location: "Surya Complex",
+    },
+    {
+      title: "Frozen Bottle - Milkshakes, Desserts & Ice Cream",
+      rating: "4.4",
+      time: "35-40mins",
+      id: 15,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Frozen%20Bottle?updatedAt=1710681340969",
+      description: "Beverages, Desserts, Ice Cream",
+      location: "Surya Complex",
+    },
+    {
+      title: "Kwality Walls Frozen Dessert & Ice Cream",
+      rating: "4.6",
+      time: "30-35mins",
+      id: 16,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Kwality%20Walls?updatedAt=1710679492475",
+      description: "Desserts, Ice Cream",
+      location: "Thottapalayam",
+    },
+    {
+      title: "China Town",
+      rating: "4.5",
+      time: "30-35mins",
+      id: 17,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/China%20Town?updatedAt=1710679827807",
+      description: "Biryani, South Indian, Chinese, North Indian",
+      location: "Susil Classic Upstair",
+    },
+    {
+      title: "KFC",
+      rating: "4.2",
+      time: "30-35mins",
+      id: 18,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/KFC?updatedAt=1710679885301",
+      description: "Burgers, Biryani, American, Snacks",
+      location: "Vasanthapuram",
+    },
+    {
+      title: "Giani",
+      rating: "4.5",
+      time: "30-35mins",
+      id: 19,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Giani?updatedAt=1710680171099",
+      description: "Ice Cream",
+      location: "Vellore Fort",
+    },
+    {
+      title: "Meat and Eat",
+      rating: "4.2",
+      time: "30-35mins",
+      id: 20,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Meat%20and%20Eat?updatedAt=1710680205459",
+      description: "Chinese, Burgers, Ice Cream",
+      location: "Kosapet",
+    },
+    {
+      title: "Lassi Shop",
+      rating: "4.2",
+      time: "30-35mins",
+      id: 21,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Lassi%20Shop?updatedAt=1710679700525",
+      description: "Juice, Ice Cream, Desserts",
+      location: "Toll Gate Signal",
+    },
+    {
+      title: "UBQ by Barbeque Nation",
+      rating: "4.2",
+      time: "35-40mins",
+      id: 22,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/dc1fzmuxs3hek5fo5dzj?updatedAt=1710678900327",
+      description: "North Indian, Barbeque, Biryani",
+      location: "Kosapet",
+    },
+    {
+      title: "Pizza Hut",
+      rating: "4.2",
+      time: "40-45mins",
+      id: 23,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Pizza%20Hut?updatedAt=1710681260599",
+      description: "Pizzas",
+      location: "Selvam Nagar",
+    },
+    {
+      title: "Punjabi Rasoi",
+      rating: "4.2",
+      time: "40-45mins",
+      id: 24,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Punjabi%20Rasoi?updatedAt=1710682615431",
+      description: "Punjabi, North Indain, Healthy Meals",
+      location: "Near VIT",
+    },
+    {
+      title: "Hotel Surabi International",
+      rating: "4.3",
+      time: "25-30mins",
+      id: 25,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Hotel%20Surabi%20International?updatedAt=1710682648989",
+      description: "Biryani, Chinese, South Indian",
+      location: "Zip by Spree Hotel",
+    },
+    {
+      title: "Thambi Biryani Kadai",
+      rating: "4.2",
+      time: "20-25mins",
+      id: 26,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Thambi%20Biryani?updatedAt=1710680672089",
+      description: "Biryani, Chinese, Indian, Grill",
+      location: "Velapadi",
+    },
+    {
+      title: "Kari Soru",
+      rating: "4.1",
+      time: "20-25mins",
+      id: 27,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Kari%20Soru?updatedAt=1710681751059",
+      description: "Biryani, North Indian, South Indian",
+      location: "Kosapet",
+    },
+    {
+      title: "Baby Restaurant",
+      rating: "4.3",
+      time: "25-30mins",
+      id: 28,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Baby%20Restaurant?updatedAt=1710682692862",
+      description: "South Indian, Biryani, North Indian",
+      location: "Baby Residency",
+    },
+    {
+      title: "Yaa Mohaideen Biryani",
+      rating: "4.1",
+      time: "20-25mins",
+      id: 29,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Yaa%20Mohideen?updatedAt=1710680247156",
+      description: "Biryani, Tandoor, Chinese",
+      location: "Green Circle",
+    },
+    {
+      title: "Gyan Vaishanav Dhaba",
+      rating: "4.3",
+      time: "20-25mins",
+      id: 30,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Gyan%20Vaishanav%20Dhaba?updatedAt=1710682739116",
+      description: "North Indian, Chinese, Deserts",
+      location: "Opposite CMC Front Gate",
+    },
+    {
+      title: "Lalit Vihar",
+      rating: "4.5",
+      time: "25-30mins",
+      id: 31,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Lalit%20Vihar?updatedAt=1710682768480",
+      description: "North Indian, Chinese, Biryani",
+      location: "Chetty Street",
+    },
+    {
+      title: "Hotel Alankar",
+      rating: "4.7",
+      time: "20-25mins",
+      id: 32,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Hotel%20Alankar?updatedAt=1710679277151",
+      description: "South Indian, Biryani, Beverages",
+      location: "OPP Chelliamman Kovil",
+    },
+    {
+      title: "Fry Yo",
+      rating: "4.3",
+      time: "30-35mins",
+      id: 33,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/kxjlw0vauz5rpxi3qgrg?updatedAt=1710679109598",
+      description: "Burgers, Desserts, Fast Foods, Snacks",
+      location: "Thottapalayam",
+    },
+    {
+      title: "Jothie Biryani",
+      rating: "4.2",
+      time: "25-30mins",
+      id: 34,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Jothie%20Biryani?updatedAt=1710680413037",
+      description: "Biryani, South Indian",
+      location: "Near CMC, Bangalore Road",
+    },
+    {
+      title: "R K Tandoori",
+      rating: "3.8",
+      time: "25-30mins",
+      id: 35,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/R%20K%20Tandoori?updatedAt=1710682875206",
+      description: "South Indian, Biryani, Chinese",
+      location: "Opposite CMC",
+    },
+    {
+      title: "Manna biryani",
+      rating: "4",
+      time: "25-30mins",
+      id: 36,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Manna%20biryani?updatedAt=1710682953451",
+      description: "Biryani, Chinese, South Indian",
+      location: "Saidapet",
+    },
+    {
+      title: "Darling Bakery",
+      rating: "4.4",
+      time: "20-25mins",
+      id: 37,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Darling%20bakery?updatedAt=1710679446626",
+      description: "Bakery, Desserts, Sweets, Snacks",
+      location: "Near Baby Mahal",
+    },
+    {
+      title: "Harish Bakery",
+      rating: "4.4",
+      time: "20-25mins",
+      id: 38,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Harish%20Bakery?updatedAt=1710683114246",
+      description: "Bakery, Desserts, Sweets, Snacks",
+      location: "Harish Food Zone",
+    },
+    {
+      title: "Amirtha - Veg Treat From The House Of DARLING",
+      rating: "4.4",
+      time: "30-35mins",
+      id: 39,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Amirtha%20-%20Veg%20Treat%20From%20The%20House%20Of%20DARLING?updatedAt=1710683115111",
+      description: "South Indian",
+      location: "Silk Mill",
+    },
+    {
+      title: "Hotel Saravana Bhavan",
+      rating: "4.4",
+      time: "25-30mins",
+      id: 40,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Hotel%20Saravana%20Bhavan?updatedAt=1710679525085",
+      description: "South Indian",
+      location: "Thottapalayam",
+    },
+    {
+      title: "Lassi Shop",
+      rating: "4.2",
+      time: "25-30mins",
+      id: 41,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Lassi%20Shop?updatedAt=1710679700525",
+      description: "Juices, Ice Cream, Desserts",
+      location: "Toll Gate Signal",
+    },
+    {
+      title: "Dum Safar Biryani",
+      rating: "4.2",
+      time: "35-40mins",
+      id: 42,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Dum%20Safar%20Biryani?updatedAt=1710683164361",
+      description: "Biryani, Kebabs, Tandoor, Indian",
+      location: "Kosapet",
+    },
+    {
+      title: "Giani",
+      rating: "4.5",
+      time: "30-35mins",
+      id: 43,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Giani?updatedAt=1710680171099",
+      description: "Ice Cream",
+      location: "Vellore Fort",
+    },
+    {
+      title: "Khanna Veg Restaurant",
+      rating: "4.3",
+      time: "45-50mins",
+      id: 44,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Khanna%20Veg%20Restaurant?updatedAt=1710683205018https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Khanna%20Veg%20Restaurant?updatedAt=1710683205018",
+      description: "South Indian, North Indian, Biryani",
+      location: "Kanna Feasta, Anna Salai",
+    },
+    {
+      title: "Limra Garden Restaurant",
+      rating: "4.2",
+      time: "35-40mins",
+      id: 45,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Limra%20Garden%20Restaurant?updatedAt=1710679249708",
+      description: "Chinese, Burgers, Pastas",
+      location: "Opposite to Netaji Stadium",
+    },
+    {
+      title: "Visesham Restaurant",
+      rating: "4.7",
+      time: "35-40mins",
+      id: 46,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Visesham%20Restaurant?updatedAt=1710683510156",
+      description: "South Indian",
+      location: "Vellore Fort",
+    },
+    {
+      title: "D Lassi Box",
+      rating: "4.6",
+      time: "35-40mins",
+      id: 47,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/D%20Lassi%20Box?updatedAt=1710680645656",
+      description: "Beverages, Fast Food, Burgers",
+      location: "Kosapet",
+    },
+    {
+      title: "Bandhi Biriyani",
+      rating: "4.2",
+      time: "20-25mins",
+      id: 48,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Bandhi%20Biriyani?updatedAt=1710683549679",
+      description: "Biryani, North Indian",
+      location: "Near CMC Out Gate",
+    },
+    {
+      title: "Hotel Arthy",
+      rating: "4.4",
+      time: "25-30mins",
+      id: 49,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Hotel%20Arthy?updatedAt=1710683580811",
+      description: "South Indian, Biryani, North Indian",
+      location: "Opposite to CMC Main Gate",
+    },
+    {
+      title: "Gurunanak Punjabi Dhaba",
+      rating: "4.3",
+      time: "25-30mins",
+      id: 50,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Gurunanak%20Punjabi%20Dhaba?updatedAt=1710683672205",
+      description: "North Indian, Beverages, Desserts",
+      location: "Near CMC Front Gate",
+    },
+    {
+      title: "Minerva Sweets & Bakery",
+      rating: "4.1",
+      time: "20-25mins",
+      id: 51,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Minerva%20Sweet%20and%20Bakery?updatedAt=1710680611324",
+      description: "Bakery, Snacks",
+      location: "Vellore Fort",
+    },
+    {
+      title: "Hotel S.B.R",
+      rating: "4.4",
+      time: "50-55mins",
+      id: 52,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Hotel%20S.B.R?updatedAt=1710683672946",
+      description: "Biryani, Chinese, South Indian",
+      location: "Katpadi",
+    },
+    {
+      title: "Fortune Deli by Fortune Park",
+      rating: "4.2",
+      time: "40-45mins",
+      id: 53,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Fortune%20Deli?updatedAt=1710680820940",
+      description: "Biryani, Indian, Continental",
+      location: "Gandhi Nagar",
+    },
+    {
+      title: "Sivam Sweets",
+      rating: "4.6",
+      time: "20-25mins",
+      id: 54,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Sivam%20Sweets?updatedAt=1710683711163",
+      description: "Sweets, Desserts",
+      location: "Kosapet",
+    },
+    {
+      title: "Darling Roof Top",
+      rating: "4.5",
+      time: "40-45mins",
+      id: 55,
+      image_url:
+        "https://ik.imagekit.io/Gokul/FULL%20STACK/Assets%20/Darling%20Roof%20Top?updatedAt=1710680958512",
+      description: "Biryani, South Indian, Chinese",
+      location: "Kosapet",
+    }
