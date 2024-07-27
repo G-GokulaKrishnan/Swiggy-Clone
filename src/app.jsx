@@ -166,7 +166,9 @@ const Header = () => {
 
 
 const ProductCard = (prop) => {
-  const { title, rating, time, description, location, img } = prop;
+  const { title, rating, time, description, location, img, onTitleClick } = prop;
+  console.log('ProductCard rendered with onTitleClick:', onTitleClick); 
+
   return (
     <>
       <div className="bg-white rounded-lg overflow-hidden shadow-lg m-2 w-full max-w-sm">
@@ -177,7 +179,7 @@ const ProductCard = (prop) => {
         ></div>
       
       <div className="pl-2">
-      <h2 className="truncate cursor-pointer text-base sm:text-lg md:text-xl lg:text-2xl ">{title}</h2>
+      <h2 className="truncate cursor-pointer text-base sm:text-lg md:text-xl lg:text-2xl " onClick={onTitleClick}>{title}</h2>
 
       <div className="flex flex-wrap sm:space-x-2 space-x-1">
 
@@ -1129,6 +1131,14 @@ const ProductLayout = () => {
     return () => clearTimeout(timer);
   }, []);
 
+  const handleTitleClick = (id) => {
+    console.log(`Card clicked with ID: ${id}`); // Debugging log
+
+    if (id === 1) {
+      window.open('https://swiggy-page-2.vercel.app/', '_blank');
+    } 
+  };
+
   return (
     <>
       <div className="2xl:container">
@@ -1244,6 +1254,7 @@ const ProductLayout = () => {
                   description={e.description}
                   location={e.location}
                   img={e.image_url}
+                  onTitleClick={() => handleTitleClick(e.id)}
                 />
               </SwiperSlide>
             ))}
